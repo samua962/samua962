@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 I'm a junior software developer based in Addis Ababa, Ethiopia. I focus on building practical web and mobile applications and improving my skills through real projects.
 
 ## 💻 Tech Stack
-- Frontend: HTML, CSS, JavaScript, React
+- Frontend: HTML, CSS, JavaScript, React, Tailwind css 
 - Mobile: React Native (Expo), Android (Java)
 - Backend: PHP, Firebase
 - Database: MySQL, SQLite, Firestore
