@@ -21,9 +21,9 @@ I'm a junior software developer based in Addis Ababa, Ethiopia. I focus on build
 ## 💻 Tech Stack
 - **Frontend:** HTML, CSS, JavaScript, React, Tailwind css 
 - **Mobile:** React Native (Expo), Android (Java)
-- **Backend:** Node.js, Express.js, PHP, Firebase
-- **Database:** MongoDB, MySQL, SQLite, Firestore
-- **Other:** Git, REST APIs
+- **Backend:** Node.js, Express.js, PHP, C# Firebase
+- **Database:** MongoDB, MySQL, SQLite, PostgreSQL Firestore
+- **Other:** Git, REST APIs, Firebase Auth
 
 ## 🚀 Projects
 
